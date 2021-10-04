@@ -58,7 +58,7 @@ namespace JWToken.Controllers
             string pass = _userService.UserLogin(login);
             if(pass.Length<100)
             {
-                _log4net.Info("Login Failed.");
+                _log4net.Error("Login Failed.");
                 return BadRequest(pass);
             }
             else
@@ -102,7 +102,7 @@ namespace JWToken.Controllers
             }
             else
             {
-                _log4net.Info("Signup Failed.");
+                _log4net.Error("Signup Failed.");
                 return BadRequest(pass);
             }
         }
