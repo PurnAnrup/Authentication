@@ -69,7 +69,7 @@ namespace JWToken.Controllers
                     HttpOnly = true
                 });
                 _log4net.Info("Login Successful.");
-                return Ok("Login_Successful");
+                return Ok(pass);
             } 
         }
 
