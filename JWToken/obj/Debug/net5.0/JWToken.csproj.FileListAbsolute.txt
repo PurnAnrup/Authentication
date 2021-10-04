@@ -1,0 +1,323 @@
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\appsettings.json
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\JWToken.exe
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\JWToken.deps.json
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\JWToken.runtimeconfig.json
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\JWToken.runtimeconfig.dev.json
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\JWToken.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\ref\JWToken.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\JWToken.pdb
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\91898\source\repos\JWToken\JWToken\obj\Debug\net5.0\JWToken.csproj.AssemblyReference.cache
+C:\Users\91898\source\repos\JWToken\JWToken\obj\Debug\net5.0\JWToken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91898\source\repos\JWToken\JWToken\obj\Debug\net5.0\JWToken.AssemblyInfoInputs.cache
+C:\Users\91898\source\repos\JWToken\JWToken\obj\Debug\net5.0\JWToken.AssemblyInfo.cs
+C:\Users\91898\source\repos\JWToken\JWToken\obj\Debug\net5.0\JWToken.csproj.CoreCompileInputs.cache
+C:\Users\91898\source\repos\JWToken\JWToken\obj\Debug\net5.0\JWToken.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\91898\source\repos\JWToken\JWToken\obj\Debug\net5.0\JWToken.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\91898\source\repos\JWToken\JWToken\obj\Debug\net5.0\staticwebassets\JWToken.StaticWebAssets.Manifest.cache
+C:\Users\91898\source\repos\JWToken\JWToken\obj\Debug\net5.0\staticwebassets\JWToken.StaticWebAssets.xml
+C:\Users\91898\source\repos\JWToken\JWToken\obj\Debug\net5.0\scopedcss\bundle\JWToken.styles.css
+C:\Users\91898\source\repos\JWToken\JWToken\obj\Debug\net5.0\JWToken.RazorTargetAssemblyInfo.cache
+C:\Users\91898\source\repos\JWToken\JWToken\obj\Debug\net5.0\JWToken.csproj.CopyComplete
+C:\Users\91898\source\repos\JWToken\JWToken\obj\Debug\net5.0\JWToken.dll
+C:\Users\91898\source\repos\JWToken\JWToken\obj\Debug\net5.0\ref\JWToken.dll
+C:\Users\91898\source\repos\JWToken\JWToken\obj\Debug\net5.0\JWToken.pdb
+C:\Users\91898\source\repos\JWToken\JWToken\obj\Debug\net5.0\JWToken.genruntimeconfig.cache
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\Humanizer.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\91898\source\repos\JWToken\JWToken\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\appsettings.json
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\JWToken.exe
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\JWToken.deps.json
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\JWToken.runtimeconfig.json
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\JWToken.runtimeconfig.dev.json
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\JWToken.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\ref\JWToken.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\JWToken.pdb
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\Humanizer.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\obj\Debug\net5.0\JWToken.csproj.AssemblyReference.cache
+C:\Users\dilip\source\repos\Authentication\JWToken\obj\Debug\net5.0\JWToken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilip\source\repos\Authentication\JWToken\obj\Debug\net5.0\JWToken.AssemblyInfoInputs.cache
+C:\Users\dilip\source\repos\Authentication\JWToken\obj\Debug\net5.0\JWToken.AssemblyInfo.cs
+C:\Users\dilip\source\repos\Authentication\JWToken\obj\Debug\net5.0\JWToken.csproj.CoreCompileInputs.cache
+C:\Users\dilip\source\repos\Authentication\JWToken\obj\Debug\net5.0\JWToken.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dilip\source\repos\Authentication\JWToken\obj\Debug\net5.0\JWToken.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dilip\source\repos\Authentication\JWToken\obj\Debug\net5.0\staticwebassets\JWToken.StaticWebAssets.Manifest.cache
+C:\Users\dilip\source\repos\Authentication\JWToken\obj\Debug\net5.0\staticwebassets\JWToken.StaticWebAssets.xml
+C:\Users\dilip\source\repos\Authentication\JWToken\obj\Debug\net5.0\scopedcss\bundle\JWToken.styles.css
+C:\Users\dilip\source\repos\Authentication\JWToken\obj\Debug\net5.0\JWToken.RazorTargetAssemblyInfo.cache
+C:\Users\dilip\source\repos\Authentication\JWToken\obj\Debug\net5.0\JWToken.csproj.CopyComplete
+C:\Users\dilip\source\repos\Authentication\JWToken\obj\Debug\net5.0\JWToken.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\obj\Debug\net5.0\ref\JWToken.dll
+C:\Users\dilip\source\repos\Authentication\JWToken\obj\Debug\net5.0\JWToken.pdb
+C:\Users\dilip\source\repos\Authentication\JWToken\obj\Debug\net5.0\JWToken.genruntimeconfig.cache
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\appsettings.json
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\JWToken.exe
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\JWToken.deps.json
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\JWToken.runtimeconfig.json
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\JWToken.runtimeconfig.dev.json
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\JWToken.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\ref\JWToken.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\JWToken.pdb
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.csprojAssemblyReference.cache
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.AssemblyInfoInputs.cache
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.AssemblyInfo.cs
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.csproj.CoreCompileInputs.cache
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\staticwebassets\JWToken.StaticWebAssets.Manifest.cache
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\staticwebassets\JWToken.StaticWebAssets.xml
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\scopedcss\bundle\JWToken.styles.css
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.RazorTargetAssemblyInfo.cache
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.csproj.CopyComplete
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\ref\JWToken.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.pdb
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.genruntimeconfig.cache
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\JWToken.xml
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\log4net3.config
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\log4net.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Authentication\JWToken\obj\Debug\net5.0\JWToken.csproj.AssemblyReference.cache
+D:\Authentication\JWToken\obj\Debug\net5.0\JWToken.GeneratedMSBuildEditorConfig.editorconfig
+D:\Authentication\JWToken\obj\Debug\net5.0\JWToken.AssemblyInfoInputs.cache
+D:\Authentication\JWToken\obj\Debug\net5.0\JWToken.AssemblyInfo.cs
+D:\Authentication\JWToken\obj\Debug\net5.0\JWToken.csproj.CoreCompileInputs.cache
+D:\Authentication\JWToken\obj\Debug\net5.0\JWToken.MvcApplicationPartsAssemblyInfo.cs
+D:\Authentication\JWToken\obj\Debug\net5.0\JWToken.MvcApplicationPartsAssemblyInfo.cache
+D:\Authentication\JWToken\obj\Debug\net5.0\JWToken.dll
+D:\Authentication\JWToken\obj\Debug\net5.0\ref\JWToken.dll
+D:\Authentication\JWToken\obj\Debug\net5.0\JWToken.pdb
+D:\Authentication\JWToken\bin\Debug\net5.0\appsettings.Development.json
+D:\Authentication\JWToken\bin\Debug\net5.0\appsettings.json
+D:\Authentication\JWToken\bin\Debug\net5.0\log4net3.config
+D:\Authentication\JWToken\bin\Debug\net5.0\JWToken.exe
+D:\Authentication\JWToken\bin\Debug\net5.0\JWToken.deps.json
+D:\Authentication\JWToken\bin\Debug\net5.0\JWToken.runtimeconfig.json
+D:\Authentication\JWToken\bin\Debug\net5.0\JWToken.runtimeconfig.dev.json
+D:\Authentication\JWToken\bin\Debug\net5.0\JWToken.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\ref\JWToken.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\JWToken.pdb
+D:\Authentication\JWToken\bin\Debug\net5.0\Humanizer.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\log4net.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Authentication\JWToken\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Authentication\JWToken\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Authentication\JWToken\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Authentication\JWToken\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Authentication\JWToken\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Authentication\JWToken\obj\Debug\net5.0\staticwebassets\JWToken.StaticWebAssets.Manifest.cache
+D:\Authentication\JWToken\obj\Debug\net5.0\staticwebassets\JWToken.StaticWebAssets.xml
+D:\Authentication\JWToken\obj\Debug\net5.0\scopedcss\bundle\JWToken.styles.css
+D:\Authentication\JWToken\obj\Debug\net5.0\JWToken.RazorTargetAssemblyInfo.cache
+D:\Authentication\JWToken\obj\Debug\net5.0\JWToken.csproj.CopyComplete
+D:\Authentication\JWToken\obj\Debug\net5.0\JWToken.genruntimeconfig.cache
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\appsettings.json
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\JWToken.exe
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\JWToken.deps.json
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\JWToken.runtimeconfig.json
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\JWToken.runtimeconfig.dev.json
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\JWToken.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\ref\JWToken.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\JWToken.pdb
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\log4net.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.csprojAssemblyReference.cache
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.AssemblyInfoInputs.cache
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.AssemblyInfo.cs
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.csproj.CoreCompileInputs.cache
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\staticwebassets\JWToken.StaticWebAssets.Manifest.cache
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\staticwebassets\JWToken.StaticWebAssets.xml
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\scopedcss\bundle\JWToken.styles.css
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.RazorTargetAssemblyInfo.cache
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.csproj.CopyComplete
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\ref\JWToken.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.pdb
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\obj\Debug\net5.0\JWToken.genruntimeconfig.cache
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken\bin\Debug\net5.0\log4net.config

@@ -1,0 +1,8 @@
+2021-10-04 17:31:27,974 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-04 17:31:27,997 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-04 17:31:28,021 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-04 17:31:28,022 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-04 17:31:28,025 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken
+2021-10-04 17:31:28,025 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Authentication-main\Authentication-main\JWToken
+2021-10-04 17:31:42,213 [5] INFO JWToken.Controllers.UserController - Signup initiated!
+2021-10-04 17:31:45,414 [5] INFO JWToken.Controllers.UserController - Signup Failed.

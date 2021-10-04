@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JWToken</name>
+    </assembly>
+    <members>
+        <member name="M:JWToken.Controllers.UserController.Login(JWToken.Model.Login)">
+            <summary>
+            Login Status
+             </summary>
+             <return>
+             Returns Login Status
+             </return>
+             <remarks>
+             Sample request
+             POST / api/User
+             
+             </remarks>
+             <response code="201">Login Success</response>
+        </member>
+        <member name="M:JWToken.Controllers.UserController.SignUp(JWToken.Model.User)">
+            <summary>
+            Sign up
+             </summary>
+             <return>
+             Sign up status
+             </return>
+             <remarks>
+             Sample request
+             POST / api/User
+             
+             </remarks>
+             <response code="201">Signed up successfully</response>
+        </member>
+        <member name="M:JWToken.Controllers.UserController.UserData(System.Int32)">
+            <summary>
+            Get User Data
+            </summary>
+            <return>
+            Returns User Data
+            </return>
+            <remarks>
+            Sample request
+            GET /api/User
+            
+            </remarks>
+            <response code="200">User Data</response>
+        </member>
+        <member name="M:JWToken.Controllers.UserController.Logout">
+            <summary>
+            Logout
+            </summary>
+            <return>
+            Logs out
+            </return>
+            <remarks>
+            Sample request
+            GET /api/User
+            
+            </remarks>
+            <response code="200">Successfully logged out</response>
+        </member>
+    </members>
+</doc>
